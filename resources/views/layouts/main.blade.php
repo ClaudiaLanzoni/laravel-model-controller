@@ -6,10 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
-    <title>Movies - @yield('title')</title>
+    <title>Movies</title>
 </head>
 <body>
-
+    
     @yield('content')
 
 </body>
